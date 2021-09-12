@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/KeepHouston/helparound-backend.git
+[submodule "mobile-client"]
+	path = mobile-client
+	url = https://github.com/KeepHouston/helparound-mobile-client.git
